@@ -5,7 +5,7 @@ Analyze whether political leaning affects state educational expenditures.
 ### Project Description 
 A data analysis and visualization project analyzing whether a state's political leaning affects the level of education expenditure and achievement of that state (2000-2015). 
 
-See the <a href="https://www.kaggle.com/noriuk/us-education-datasets-unification-project#states_all_extended.csv">Data Set</a> (Data Cleaning and EDA) and the <a href="https://public.tableau.com/profile/allison.godfrey#!/vizhome/total_expenditures/Dashboard1?publish=yes&:origin=viz_share_link">Visualization Dashboard</a> for reference. 
+See the <a href="https://www.kaggle.com/noriuk/us-education-datasets-unification-project#states_all_extended.csv">Data Set</a> and the <a href="https://public.tableau.com/profile/allison.godfrey#!/vizhome/total_expenditures/Dashboard1?publish=yes&:origin=viz_share_link">Visualization Dashboard</a> for reference. 
 
 ### Skills 
 Data Visualization, Data Cleansing, Correlation Analysis, Web Design
